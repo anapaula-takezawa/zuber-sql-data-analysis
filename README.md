@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/zuber_cover_1280x640_under_1mb.jpg"
+       alt="Zuber — SQL & Data Analysis"
+       width="100%">
+</p>
+
 # Zuber — SQL & Data Analysis
 
 **Author:** Ana Paula Takezawa  
